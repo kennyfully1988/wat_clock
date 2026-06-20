@@ -1,4 +1,5 @@
 # WAT CLOCK | WAT时钟
+[LIVE DEMO | 实时演示](https://kennyfully1988.github.io/wat_clock/)
 
 A minimalistic, high-performance pixel clock powered by an embedded WebAssembly (Wasm) binary module rendering directly to an HTML5 Canvas.
 
