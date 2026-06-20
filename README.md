@@ -7,6 +7,8 @@ A minimalistic, high-performance pixel clock powered by an embedded WebAssembly 
 
 一个极简、高性能的像素时钟，由嵌入式 WebAssembly (Wasm) 二进制模块驱动，直接渲染到 HTML5 Canvas 画布上。
 
+![wat_clock_demo](./wat_clock_demo.gif)
+
 ## Features
 
 * Low-Level Precision: Core clock rendering and logic are implemented inside a hand-crafted/optimized WebAssembly binary module.
